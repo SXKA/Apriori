@@ -1,5 +1,5 @@
 # apriori
-Apriori algorithm impletation based on hash tree.
+Apriori algorithm implementation based on hash tree.
 
 Dataset: Music.txt.gz (https://snap.stanford.edu/data/web-Amazon.html)
 ## Execution time
